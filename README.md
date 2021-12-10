@@ -148,7 +148,7 @@ And here is a chronological log of the highlights of my learning:
 I'm currently interested in/excited about:
 
 + React
-+ JavaScript best practice
++ Python
 + Object Oriented Programming
 
 ----
