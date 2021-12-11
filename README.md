@@ -36,7 +36,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | Dec 2021   | [100 Days of Code ]                                             | [Angela Yu] - [Udemy]                       |
 | ![Completed][Completed]     | Dec 2021   | [3 Day React Challenge]                                         | [Rafeh Qazi] - [YouTube]                    |
-| ![Completed][Completed]     | Oct 2021   | [Python Tutorials]                                              | [Tech with Tim] - [YouTube]                 |
+| ![Completed][Completed]     | Oct 2021   | [Python Tutorials]                                              | [Tech with Tim] - [youtube]                 |
 | ![Completed][Completed]     | Oct 2021   | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Completed][Completed]     | Jan 2018   | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![Completed][Completed]     | 2017       | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
