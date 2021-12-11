@@ -14,6 +14,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**Python**                        | ![done][done]     | ![done]                |                  |
 |**React**                         | ![done][done]     |                        |                  |
+|**Node.js**                       | ![done][done]     |                        |                  |
 |**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Jira**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     |                        |                  |
@@ -33,16 +34,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Dec 2019   | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
-| ![Completed][Completed]     | Dec 2019   | [The Next.js Handbook]                                          | [Flavio Copes]                              |
-| ![Completed][Completed]     | Oct 2019   | [You Don't Know JavaScript]: Types & Grammar                    | [Kyle Simpson]                              |
-| ![Completed][Completed]     | Sept 2019  | [You Don't Know JavaScript]: Objects & Classes                  | [Kyle Simpson]                              |
-| ![Completed][Completed]     | Jul 2019   | [You Don't Know JavaScript]: Scope & Closure                    | [Kyle Simpson]                              |
-| ![Completed][Completed]     | May 2019   | [Eloquent JavaScript]                                           | [Marijn Haverbeke]                          |
-| ![Completed][Completed]     | Feb 2019   | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
-| ![Completed][Completed]     | Jan 2019   | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
-| ![Completed][Completed]     | Aug 2018   | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![Completed][Completed]     | Feb 2018   | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
+| ![Completed][Completed]     | Dec 2021   | [100 Days of Code ]                                             | [Angela Yu] - [Udemy]                       |
+| ![Completed][Completed]     | Dec 2021   | [3 Day React Challenge]                                         | [Rafeh Qazi] - [YouTube]                    |
+| ![Completed][Completed]     | Oct 2021   | [Python Tutorials]                                              | [Tech with Tim] - [YouTube]                 |
+| ![Completed][Completed]     | Oct 2021   | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Completed][Completed]     | Jan 2018   | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![Completed][Completed]     | 2017       | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017       | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
