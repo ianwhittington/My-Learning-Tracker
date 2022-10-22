@@ -12,6 +12,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
+|**HTML5**                         | ![done][done]     | ![done]                |                  |
+|**CSS3**                          | ![done][done]     | ![done]                |                  |
+|**JavaScript**                    | ![done][done]     | ![done]                |                  |
 |**Python**                        | ![done][done]     | ![done]                |                  |
 |**React**                         | ![done][done]     |                        |                  |
 |**Node.js**                       | ![done][done]     |                        |                  |
