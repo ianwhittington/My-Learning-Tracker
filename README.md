@@ -15,14 +15,17 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**HTML5**                         | ![done][done]     | ![done]                |                  |
 |**CSS3**                          | ![done][done]     | ![done]                |                  |
 |**JavaScript**                    | ![done][done]     | ![done]                |                  |
-|**Python**                        | ![done][done]     | ![done]                |                  |
-|**React**                         | ![done][done]     |                        |                  |
-|**Node.js**                       | ![done][done]     |                        |                  |
+|**Python**                        | ![done][done]     | ![done]                | ![done][done]    |
+|**Numpy**                         | ![done][done]     |                        |                  |
+|**Pandas**                        | ![done][done]     |                        |                  |
+|**Matplotlib**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Jupyter Notebook**              | ![done][done]     | ![done][done]          | ![done][done]    |
+|**TensorFlow**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**PyTorch**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Jira**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     |                        |                  |
-|**Website Building**              | ![done][done]     | ![done][done]          |                  |
-|**Publishing website**            | ![done][done]     | ![done][done]          |                  |
+
 
 
 ----
@@ -39,7 +42,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | Dec 2021   | [https://www.udemy.com/course/100-days-of-code]                 | [Angela Yu]  -  [Udemy]             |
 | ![Completed][Completed]     | Dec 2021   | [3 Day React Challenge]                                         | [Rafeh Qazi] - [YouTube.com]                |
-| ![Completed][Completed]     | Oct 2021   | [Python Tutorials]                                              | [Tech with Tim] - [youtube.com]             |
+| ![Completed][Completed]     | Dec 2021   | [Python Tutorials]                                              | [Tech with Tim] - [youtube.com]             |
 | ![Completed][Completed]     | Oct 2021   | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Completed][Completed]     | Jan 2018   | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![Completed][Completed]     | 2017       | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
@@ -53,7 +56,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] |            | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
 | ![In Progress][In Progress] |            | [Front End Development]                                         | [Free Code Camp]                            |
 | ![In Progress][In Progress] |            | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![Soon][Soon]               |            | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
+| ![Soon][Soon]               |            | TensorFlow Certification                                        | Douglas Crockford                           |
 
 [//]: # (Reference links to courses)
 
