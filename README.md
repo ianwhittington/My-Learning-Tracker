@@ -40,23 +40,17 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Dec 2021   | [https://www.udemy.com/course/100-days-of-code]                 | [Angela Yu]  -  [Udemy]             |
+| ![Completed][Completed]     | Dec 2021   | [https://www.udemy.com/course/100-days-of-code]                 | [Angela Yu]  -  [Udemy]                     |
 | ![Completed][Completed]     | Dec 2021   | [3 Day React Challenge]                                         | [Rafeh Qazi] - [YouTube.com]                |
 | ![Completed][Completed]     | Dec 2021   | [Python Tutorials]                                              | [Tech with Tim] - [youtube.com]             |
-| ![Completed][Completed]     | Oct 2021   | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]     | Jan 2018   | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![Completed][Completed]     | 2017       | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017       | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017       | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017       | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |            | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![In Progress][In Progress] |            | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |            | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![Soon][Soon]               |            | TensorFlow Certification                                        | Douglas Crockford                           |
+| ![Completed][Completed]     | May 2022   | [Web3 Masterclass: Blockchain, DApps, DAOs + More]              | [Adam Odziemkowski] - [zerotomastery.io]    |
+| ![Completed][Completed]     | July 2022  | [The Complete Web Developer in 2023: Zero to Mastery]           | [Andrei Neagoie] - [zerotomastery.io]       |
+| ![Completed][Completed]     | Sept 2022  | [Solidity, Ethereum, and Blockchain: The Developer's Guide]     | [Markus Waas] - [zerotomastery.io]          |
+| ![Completed][Completed]     | Nov 2022   | [Complete Python Developer in 2023]                             | [Andrei Neagoie] - [zerotomastery.io]       |
+| ![In Progress][In Progress] | Jan 2023   | [Complete Machine Learning and Data Science: Zero to Mastery]   | [Daniel Bourke] - [zerotomastery.io]        |
+| ![In Progress][In Progress] |            | [PyTorch for Deep Learning in 2023: Zero to Mastery]            | [Daniel Bourke] - [zerotomastery.io]        |
+| ![Soon][Soon]               |            | [TensorFlow Developer Certificate in 2023: Zero to Mastery]     | [Daniel Bourke] - [zerotomastery.io]        |
+| ![Soon][Soon]               |            | TensorFlow Certification                                        |                            |
 
 [//]: # (Reference links to courses)
 
