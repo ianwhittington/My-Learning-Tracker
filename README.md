@@ -59,7 +59,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Python Tutorials]: https://www.youtube.com/c/TechWithTim
 [Web3 Masterclass: Blockchain, DApps, DAOs + More]: https://academy.zerotomastery.io/courses/enrolled/1676409
 [The Complete Web Developer in 2023: Zero to Mastery]: https://academy.zerotomastery.io/courses/enrolled/697434
-[Solidity, Ethereum and Blockchain: The Complete Developer's Guide]: https://academy.zerotomastery.io/courses/enrolled/1676407
+[Solidity, Ethereum and Blockchain: The Developer's Guide]: https://academy.zerotomastery.io/courses/enrolled/1676407
 [Complete Python Developer in 2023]: https://academy.zerotomastery.io/courses/enrolled/694968
 [Complete Machine Learning and Data Science: Zero to Mastery]: https://academy.zerotomastery.io/courses/700485/lectures/14059575
 [PyTorch for Deep Learning in 2023: Zero to Mastery]:  https://academy.zerotomastery.io/courses/enrolled/1808210
