@@ -50,20 +50,20 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] | Jan 2023   | [Complete Machine Learning and Data Science: Zero to Mastery]   | [Daniel Bourke] - [zerotomastery.io]        |
 | ![In Progress][In Progress] |            | [PyTorch for Deep Learning in 2023: Zero to Mastery]            | [Daniel Bourke] - [zerotomastery.io]        |
 | ![Soon][Soon]               |            | [TensorFlow Developer Certificate in 2023: Zero to Mastery]     | [Daniel Bourke] - [zerotomastery.io]        |
-| ![Soon][Soon]               |            | TensorFlow Certification                                        |                            |
+| ![Soon][Soon]               |            | [TensorFlow Certification]                                      |                                             |
 
 [//]: # (Reference links to courses)
 
-[Getting Started With Redux]: https://egghead.io/courses/getting-started-with-redux
-[The Next.js Handbook]: https://www.freecodecamp.org/news/the-next-js-handbook/
-[The Complete JavaScript Handbook]: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
-[JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
-[Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
-[JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
-[You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
-[Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
-[Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
-[CSS Essential Training 3]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
+[100-days-of-code]: https://www.udemy.com/course/100-days-of-code
+[3 Day React Challenge]: https://www.youtube.com
+[Python Tutorials]: https://www.youtube.com/c/TechWithTim
+[Web3 Masterclass: Blockchain, DApps, DAOs + More]: https://academy.zerotomastery.io/courses/enrolled/1676409
+[The Complete Web Developer in 2023: Zero to Mastery]: https://academy.zerotomastery.io/courses/enrolled/697434
+[Solidity, Ethereum and Blockchain: The Complete Developer's Guide]: https://academy.zerotomastery.io/courses/enrolled/1676407
+[Complete Python Developer in 2023]: https://academy.zerotomastery.io/courses/enrolled/694968
+[Complete Machine Learning and Data Science: Zero to Mastery]: https://academy.zerotomastery.io/courses/700485/lectures/14059575
+[PyTorch for Deep Learning in 2023: Zero to Mastery]:  https://academy.zerotomastery.io/courses/enrolled/1808210
+[TensorFlow Developer Certificate in 2023: Zero to Mastery]: https://academy.zerotomastery.io/courses/enrolled/1240775
 [CSS Essential Training 2]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html
 [Getting Your Website Online]: https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html
 [Learn Enough Command Line to Be Dangerous]: https://www.learnenough.com/command-line-tutorial
@@ -142,53 +142,10 @@ And here is a chronological log of the highlights of my learning:
 
 I'm currently interested in/excited about:
 
-+ React
++ Machine Learning
++ Deep Learning
 + Python
 + Object Oriented Programming
 
 ----
 
-## Web Development Checklist
-
-This is a list of basic objectives to meet on the road to mastering web development.
-
-It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
-
-
-* [x] Open the computer’s terminal
-* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [x] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
-* [x] Follow developers you admire on social media
-* [x] Read a book about coding
-* [x] Open your browser console
-* [x] Get data from an API
-* [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
-* [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
-* [x] Participate in a hackathon
-* [x] Deploy a project
-* [ ] Ship your project to a store
-* [ ] Contribute to open source
-* [x] Get paid to code
-* [x] When people ask what you do, respond saying you’re a developer :)
-
-----
-
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
-
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
-
-----
-
-### Acknowledgments
-
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
-
-### License
-
-[MIT License](https://github.com/Syknapse/My-Learning-Tracker/blob/master/LICENSE)
