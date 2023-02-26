@@ -50,7 +50,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] | Jan 2023   | [Complete Machine Learning and Data Science: Zero to Mastery]   | [Daniel Bourke] - [zerotomastery.io]        |
 | ![In Progress][In Progress] |            | [PyTorch for Deep Learning in 2023: Zero to Mastery]            | [Daniel Bourke] - [zerotomastery.io]        |
 | ![Soon][Soon]               |            | [TensorFlow Developer Certificate in 2023: Zero to Mastery]     | [Daniel Bourke] - [zerotomastery.io]        |
-| ![Soon][Soon]               |            | [TensorFlow Certification]                                      |                                             |
+| ![Soon][Soon]               |            | [TensorFlow Certification]                                      | [Daniel Bourke] - [zerotomastery.io]        |
 
 [//]: # (Reference links to courses)
 
