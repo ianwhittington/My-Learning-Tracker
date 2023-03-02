@@ -16,8 +16,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**CSS3**                          | ![done][done]     | ![done]                |                  |
 |**JavaScript**                    | ![done][done]     | ![done]                |                  |
 |**Python**                        | ![done][done]     | ![done]                | ![done][done]    |
-|**Numpy**                         | ![done][done]     |                        |                  |
-|**Pandas**                        | ![done][done]     |                        |                  |
+|**Numpy**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Pandas**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Matplotlib**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Jupyter Notebook**              | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TensorFlow**                    | ![done][done]     | ![done][done]          | ![done][done]    |
